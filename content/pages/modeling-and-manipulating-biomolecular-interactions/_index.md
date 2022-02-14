@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Modeling and Manipulating Biomolecular Interactions
+type: CourseSection
 uid: 52f93d5d-eeab-ca0a-0c75-5793cc45656c
 ---
 

@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Modeling of Cellular Systems
+parent_type: CourseSection
 parent_uid: cebb4d77-9ee1-4d41-5e78-cb06b0277b90
 title: Protein Networks Project
+type: CourseSection
 uid: 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0
 ---
 
