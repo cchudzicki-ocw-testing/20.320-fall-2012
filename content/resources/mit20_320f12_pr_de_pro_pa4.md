@@ -5,6 +5,7 @@ description: This file contains information regarding protein design project - p
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/a9109d156dcda592893ab5d556b2adc7_MIT20_320F12_Pr_De_Pro_Pa4.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Protein Design Project
 parent_type: CourseSection
 resourcetype: Document

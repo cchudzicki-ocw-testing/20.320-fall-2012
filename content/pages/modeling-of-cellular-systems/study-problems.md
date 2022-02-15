@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Modeling of Cellular Systems
 parent_type: CourseSection
 parent_uid: cebb4d77-9ee1-4d41-5e78-cb06b0277b90

@@ -5,6 +5,7 @@ description: 'This file contains information regarding tutorial: generating fluo
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/7bc0483ebafcbca2d5ded071b1160934_MIT20_320F12_Ge_flu_vs_con.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Protein Networks Project
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: This resource contains information related to lecture 8.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/edaca0e817704ba43e5844681919b9d2_MIT20_320F12_Lecture8.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Modeling of Cellular Systems
 parent_type: CourseSection
 resourcetype: Document

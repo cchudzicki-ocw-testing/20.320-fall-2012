@@ -4,6 +4,7 @@ description: This resource contains information regarding lecture 14.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/164069ca4071f5a03f529ab75eb0f32b_MIT20_320F12_Lecture14.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Modeling and Manipulating Biomolecular Interactions
 parent_type: CourseSection
 resourcetype: Document

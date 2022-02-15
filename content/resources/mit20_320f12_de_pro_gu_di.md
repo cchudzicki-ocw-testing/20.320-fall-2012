@@ -5,6 +5,7 @@ description: This file contains information regarding protein networks project g
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/623e3d08f08edef62958906f05507961_MIT20_320F12_de_pro_gu_di.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Protein Networks Project
 parent_type: CourseSection
 resourcetype: Document

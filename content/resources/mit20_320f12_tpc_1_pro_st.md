@@ -4,6 +4,7 @@ description: This file contains information regarding protein structure and ener
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/e240879a8ca8d32557755a2b66f0be43_MIT20_320F12_Tpc_1_Pro_St.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Modeling and Manipulating Biomolecular Interactions
 parent_type: CourseSection
 resourcetype: Document

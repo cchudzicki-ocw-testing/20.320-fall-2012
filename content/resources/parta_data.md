@@ -4,6 +4,7 @@ description: This is a special file of protein networks project.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/ae593292bd548bee14de20d7c9b85311_parta_data.csv
 file_type: text/comma-separated-values
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Protein Networks Project
 parent_type: CourseSection
 resourcetype: Other
