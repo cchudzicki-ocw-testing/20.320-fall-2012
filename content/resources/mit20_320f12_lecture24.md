@@ -8,6 +8,5 @@ parent_title: Modeling and Manipulating Biomolecular Interactions
 parent_type: CourseSection
 resourcetype: Document
 title: 20.320 Analysis of Biomolecular and Cellular Systems, TA Lecture Note 24
-type: OCWFile
 uid: ef05dc22-3da7-760e-6db2-5255f35b01b7
 ---

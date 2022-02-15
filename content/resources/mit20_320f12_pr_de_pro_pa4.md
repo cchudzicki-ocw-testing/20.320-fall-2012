@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '20.320 Analysis of Biomolecular and Cellular Systems, Protein Design Project:
   Part 4 and Appendices A and B'
-type: OCWFile
 uid: a9109d15-6dcd-a592-893a-b5d556b2adc7
 ---

@@ -9,6 +9,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '20.320 Analysis of Biomolecular and Cellular Systems, Lecture Notes: 5 Protein
   Structure Prediction'
-type: OCWFile
 uid: 2a67acd5-8ca9-1d50-9388-12ce37e80954
 ---

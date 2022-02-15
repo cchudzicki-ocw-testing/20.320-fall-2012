@@ -8,6 +8,5 @@ parent_title: Protein Networks Project
 parent_type: CourseSection
 resourcetype: Other
 title: parta_data.csv
-type: OCWFile
 uid: ae593292-bd54-8bee-14de-20d7c9b85311
 ---

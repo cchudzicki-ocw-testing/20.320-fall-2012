@@ -9,6 +9,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '20.320 Analysis of Biomolecular and Cellular Systems, Lecture Notes: 2 Interaction
   Specificity'
-type: OCWFile
 uid: 82d39252-b277-9b18-ddc4-14e6af08a040
 ---

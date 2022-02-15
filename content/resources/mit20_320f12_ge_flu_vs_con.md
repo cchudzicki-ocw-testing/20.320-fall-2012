@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '20.320 Analysis of Biomolecular and Cellular Systems, Protein Networks Project:
   Tutorial: Generating fluorescence vs. concentration plots'
-type: OCWFile
 uid: 7bc0483e-bafc-bca2-d5de-d071b1160934
 ---

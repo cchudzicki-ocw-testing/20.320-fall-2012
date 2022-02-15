@@ -9,6 +9,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '20.320 Analysis of Biomolecular and Cellular Systems, Lecture Notes: Network
   Modeling'
-type: OCWFile
 uid: 1821a6a6-19f3-abc8-1b5f-e93f7882fee7
 ---

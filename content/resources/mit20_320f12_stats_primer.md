@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: Statistics and Probability Primer for Computational Biologists. MIT. BE.490/7.91,
   2004.
-type: OCWFile
 uid: e4de50a9-77c2-2681-4a80-4c0944b2c70a
 ---

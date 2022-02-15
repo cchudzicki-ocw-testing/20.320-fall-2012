@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: PS5Q3data.mat
-type: OCWFile
 uid: ff496192-596e-7f74-bf75-7cb20c244cea
 ---

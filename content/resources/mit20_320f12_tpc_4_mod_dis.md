@@ -9,6 +9,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '20.320 Analysis of Biomolecular and Cellular Systems, Lecture Notes: 4 Modeling
   Disease'
-type: OCWFile
 uid: 87b4d78e-5b17-48ce-dd3f-65efa5dd494a
 ---

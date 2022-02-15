@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: PS2_2010_ps3_huang_ferrell.m
-type: OCWFile
 uid: 191bd485-6b21-bbb3-0d1f-696822ad0699
 ---

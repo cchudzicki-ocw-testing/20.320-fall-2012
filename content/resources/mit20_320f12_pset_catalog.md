@@ -9,6 +9,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 20.320 Analysis of Biomolecular and Cellular Systems, Fall 2012, Practice Problem
   Catalog
-type: OCWFile
 uid: b6584992-ca25-eabd-d672-4181bea31aa9
 ---

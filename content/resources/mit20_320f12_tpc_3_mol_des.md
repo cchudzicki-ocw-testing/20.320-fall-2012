@@ -9,6 +9,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '20.320 Analysis of Biomolecular and Cellular Systems, Lecture Notes: 3 Molecular
   Design Part 1'
-type: OCWFile
 uid: f2b12b59-2a12-1e9a-5508-422f36b00f14
 ---

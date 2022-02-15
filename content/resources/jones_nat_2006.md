@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: Jones_Nat_2006.mat
-type: OCWFile
 uid: 6d07c40a-d26a-e4fb-c5b8-f07311c6c5df
 ---

@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: "20.320 Analysis of Biomolecular and Cellular Systems, Protein Networks Project:\
   \ Solutions to Design Project \u2013 Part A"
-type: OCWFile
 uid: e09e51cc-d952-5f15-73eb-f0d620e14dc3
 ---

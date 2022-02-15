@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: PS2_2010_KinaseCascade.m
-type: OCWFile
 uid: 6102d151-9a67-5aa6-8a1c-60cccbaf7c2d
 ---

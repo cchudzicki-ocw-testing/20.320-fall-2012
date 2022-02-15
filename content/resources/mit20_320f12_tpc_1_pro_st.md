@@ -9,6 +9,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '20.320 Analysis of Biomolecular and Cellular Systems, Lecture Notes: 1 Protein
   Structure and Energetics'
-type: OCWFile
 uid: e240879a-8ca8-d325-5775-5a2b66f0be43
 ---

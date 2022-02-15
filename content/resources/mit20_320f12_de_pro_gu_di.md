@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '20.320 Analysis of Biomolecular and Cellular Systems, Protein Networks Project:
   Protein Networks Project Guidelines and Directions'
-type: OCWFile
 uid: 623e3d08-f08e-def6-2958-906f05507961
 ---

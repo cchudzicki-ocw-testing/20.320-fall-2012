@@ -5,7 +5,6 @@ parent_title: Modeling of Cellular Systems
 parent_type: CourseSection
 parent_uid: cebb4d77-9ee1-4d41-5e78-cb06b0277b90
 title: Study Problems
-type: CourseSection
 uid: 3240b8d2-22e6-140d-fbda-2ad6abfaa8d5
 ---
 

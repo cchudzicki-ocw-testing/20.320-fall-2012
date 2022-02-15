@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '20.320 Analysis of Biomolecular and Cellular Systems, Lecture Notes: Introduction:
   Modeling and Manipulating Biomolecular Interactions'
-type: OCWFile
 uid: 45d28b8c-92ea-5a03-e0a8-f036f0cf28b1
 ---
