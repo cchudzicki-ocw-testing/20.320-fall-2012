@@ -22,7 +22,7 @@ In _20.320_, students learn how to analyze biological problems mathematically an
 Student Information
 -------------------
 
-![Sixty-one students took this course in Fall 2012.]({{< resource_file 5d3dc2d1-04a2-573d-cd3f-37d2f92736ba >}})
+{{< resource 5d3dc2d1-04a2-573d-cd3f-37d2f92736ba >}}
 
 Enrollment has varied from 40 students to 70 students; during the Fall 2012 semester, 61 students enrolled in this course. Typically, most students taking this course are third-year undergraduates majoring in biological engineering.
 
@@ -69,9 +69,9 @@ Out of Class
 ------------
 
 *   Read the optional [reading assignments]({{< baseurl >}}/pages/modeling-of-cellular-systems#Reading_Material)
-*   Work on the [design projects]({{< baseurl >}}/pages/modeling-of-cellular-systems/protein-networks-project)
-*   Complete the optional [study problems]({{< baseurl >}}/pages/study-materials)
-*   Study for [exams]({{< baseurl >}}/pages/exams)
+*   Work on the {{< resource_link 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0 "design projects" >}}
+*   Complete the optional {{< resource_link cd4b4519-6d0f-99f6-fa2a-8d816797da6e "study problems" >}}
+*   Study for {{< resource_link fbc59861-9d9b-9960-7e7e-c62d376c6ae8 "exams" >}}
 
 {{< anchor "roles" >}}{{< /anchor >}}
 
