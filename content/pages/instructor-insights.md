@@ -68,7 +68,7 @@ Recitation
 Out of Class
 ------------
 
-*   Read the optional [reading assignments]({{< baseurl >}}/pages/modeling-of-cellular-systems#Reading_Material)
+*   Read the optional {{< resource_link cebb4d77-9ee1-4d41-5e78-cb06b0277b90 "reading assignments" "#Reading_Material" >}}
 *   Work on the {{< resource_link 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0 "design projects" >}}
 *   Complete the optional {{< resource_link cd4b4519-6d0f-99f6-fa2a-8d816797da6e "study problems" >}}
 *   Study for {{< resource_link fbc59861-9d9b-9960-7e7e-c62d376c6ae8 "exams" >}}
@@ -86,6 +86,6 @@ Course Team Roles
 
 ### Teaching Assistants (two graduate students in biological engineering — Daniel Martin-Alarcon and Allison Claas)
 
-*   Attend lectures and [take lecture notes]({{< baseurl >}}/pages/modeling-of-cellular-systems#Lecture_Notes)
+*   Attend lectures and {{< resource_link cebb4d77-9ee1-4d41-5e78-cb06b0277b90 "take lecture notes" "#Lecture_Notes" >}}
 *   Lead recitations to supplement lectures
 *   Hold office hours and exam review sessions

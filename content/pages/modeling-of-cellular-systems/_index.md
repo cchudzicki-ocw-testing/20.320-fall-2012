@@ -6,7 +6,7 @@ title: Modeling of Cellular Systems
 uid: cebb4d77-9ee1-4d41-5e78-cb06b0277b90
 ---
 
-_This half of the course is taught by Prof. Forest White. This section contains_ _[_lecture notes_]({{< baseurl >}}/pages/modeling-of-cellular-systems#Lecture_Notes)_,__ [_reading material_]({{< baseurl >}}/pages/modeling-of-cellular-systems#Reading_Material)_,_ _and suggested_ {{< resource_link 3240b8d2-22e6-140d-fbda-2ad6abfaa8d5 "_study problems_" >}}_. There is also an associated {{< resource_link 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0 "protein networks project" >}}.  
+_This half of the course is taught by Prof. Forest White. This section contains_ _{{< resource_link cebb4d77-9ee1-4d41-5e78-cb06b0277b90 "_lecture notes_" "#Lecture_Notes" >}}_,__ {{< resource_link cebb4d77-9ee1-4d41-5e78-cb06b0277b90 "_reading material_" "#Reading_Material" >}}_,_ _and suggested_ {{< resource_link 3240b8d2-22e6-140d-fbda-2ad6abfaa8d5 "_study problems_" >}}_. There is also an associated {{< resource_link 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0 "protein networks project" >}}.  
 _
 
 Overview

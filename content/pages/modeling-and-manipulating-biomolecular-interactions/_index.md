@@ -6,7 +6,7 @@ title: Modeling and Manipulating Biomolecular Interactions
 uid: 52f93d5d-eeab-ca0a-0c75-5793cc45656c
 ---
 
-_This half of the course is taught by Prof. Ernest Fraenkel. This section contains_ _[_lecture notes_]({{< baseurl >}}/pages/modeling-and-manipulating-biomolecular-interactions#Lecture_Notes)_,__ [_reading material_]({{< baseurl >}}/pages/modeling-and-manipulating-biomolecular-interactions#Reading_Material)_,_ _and suggested_ {{< resource_link e741af51-f70b-3b3f-b90b-df4225810bdb "_study problems_" >}}_._ _There is also an associated {{< resource_link 4e768918-89cb-0ab8-82ea-1711a42e3666 "protein design project" >}}._
+_This half of the course is taught by Prof. Ernest Fraenkel. This section contains_ _{{< resource_link 52f93d5d-eeab-ca0a-0c75-5793cc45656c "_lecture notes_" "#Lecture_Notes" >}}_,__ {{< resource_link 52f93d5d-eeab-ca0a-0c75-5793cc45656c "_reading material_" "#Reading_Material" >}}_,_ _and suggested_ {{< resource_link e741af51-f70b-3b3f-b90b-df4225810bdb "_study problems_" >}}_._ _There is also an associated {{< resource_link 4e768918-89cb-0ab8-82ea-1711a42e3666 "protein design project" >}}._
 
 Overview
 --------
