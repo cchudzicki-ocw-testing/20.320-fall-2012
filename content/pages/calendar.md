@@ -130,7 +130,7 @@ Ultrasensitivity / amplification in the MAPK cascade
 FW
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0 "Protein Networks Project" >}} Part 1 Due
+{{% resource_link 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0 "Protein Networks Project" %}} Part 1 Due
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +169,7 @@ Ligand depletion
 FW
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0 "Protein Networks Project" >}} Part 2 Due
+{{% resource_link 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0 "Protein Networks Project" %}} Part 2 Due
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +199,7 @@ Transcriptional regulation: Simple regulation, negative autoregulation, positive
 FW
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0 "Protein Networks Project" >}} Parts 3-5 Due
+{{% resource_link 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0 "Protein Networks Project" %}} Parts 3-5 Due
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +259,7 @@ Specificity
 EF
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 4e768918-89cb-0ab8-82ea-1711a42e3666 "Protein Design Project" >}} Part 1 Due
+{{% resource_link 4e768918-89cb-0ab8-82ea-1711a42e3666 "Protein Design Project" %}} Part 1 Due
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -289,7 +289,7 @@ Gradient descent, molecular dynamics, ΔΔG for small molecules, pharma prioriti
 EF
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 4e768918-89cb-0ab8-82ea-1711a42e3666 "Protein Design Project" >}} Part 2 Due
+{{% resource_link 4e768918-89cb-0ab8-82ea-1711a42e3666 "Protein Design Project" %}} Part 2 Due
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -328,7 +328,7 @@ Guest lecture by Rebecca L. Carrier. Impact of drug delivery of effectiveness
 EF
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 4e768918-89cb-0ab8-82ea-1711a42e3666 "Protein Design Project" >}} Part 3 Due
+{{% resource_link 4e768918-89cb-0ab8-82ea-1711a42e3666 "Protein Design Project" %}} Part 3 Due
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -373,7 +373,7 @@ Structure from sequence
 EF
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 4e768918-89cb-0ab8-82ea-1711a42e3666 "Protein Design Project" >}} Part 4 Due
+{{% resource_link 4e768918-89cb-0ab8-82ea-1711a42e3666 "Protein Design Project" %}} Part 4 Due
 {{< tdclose >}}
 
 {{< trclose >}}
