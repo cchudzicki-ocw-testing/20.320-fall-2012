@@ -93,7 +93,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 49067f04-bbfe-58fb-9630-17aa02ac6739 "Predictive models of biology, genome editing, sensors, light-activated proteins, new enzymes, electrostatics (PDF - 1.4MB)" %}}
+{{% resource_link 49067f04-bbfe-58fb-9630-17aa02ac6739 "Predictive models of biology, genome editing, sensors, light-activated proteins, new enzymes, electrostatics (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +102,7 @@ TOPICS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e4308ecb-bb87-16db-1728-422ab968a544 "Hydrogen bonding, the hydrophobic effect, how we represent proteins (PDF - 2.4MB)" %}}
+{{% resource_link e4308ecb-bb87-16db-1728-422ab968a544 "Hydrogen bonding, the hydrophobic effect, how we represent proteins (PDF - 2.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +120,7 @@ TOPICS
 15
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 61ebe26e-cd53-067b-9576-659356e3dbba "Specificity (PDF)" %}}
+{{% resource_link 61ebe26e-cd53-067b-9576-659356e3dbba "Specificity (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +138,7 @@ TOPICS
 17
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 035dbbd5-3c17-5f4a-65be-0577d2ee4d0a "Gradient descent, molecular dynamics, ΔΔG for small molecules, pharma priorities (PDF - 1.8MB)" %}}
+{{% resource_link 035dbbd5-3c17-5f4a-65be-0577d2ee4d0a "Gradient descent, molecular dynamics, ΔΔG for small molecules, pharma priorities (PDF - 1.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +147,7 @@ TOPICS
 18
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 91247eb3-7c9c-7d71-0599-95b83bf716c0 "Drug development case study: Imatinib (PDF)" %}}
+{{% resource_link 91247eb3-7c9c-7d71-0599-95b83bf716c0 "Drug development case study: Imatinib (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +158,7 @@ TOPICS
 {{< tdopen >}}
 
 
-Guest lecture by Rebecca L. Carrier: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ab9588b1-499e-0d5a-2775-f8e002599202 "Impact of drug delivery of effectiveness (PDF)" %}}
+Guest lecture by Rebecca L. Carrier: {{% resource_link ab9588b1-499e-0d5a-2775-f8e002599202 "Impact of drug delivery of effectiveness (PDF)" %}}
 
 Courtesy of Rebecca L. Carrier. Used with permission.
 
@@ -171,7 +171,7 @@ Courtesy of Rebecca L. Carrier. Used with permission.
 21
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 17b17d8b-ae97-9323-4256-9abb63051f5f "Protein folding: thermodynamics (PDF - 1.9MB)" %}}
+{{% resource_link 17b17d8b-ae97-9323-4256-9abb63051f5f "Protein folding: thermodynamics (PDF - 1.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +180,7 @@ Courtesy of Rebecca L. Carrier. Used with permission.
 22
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f5e27f76-4bca-e1e9-d31e-f31d970b1251 "Kinetics of folding, predicting protein structure (PDF - 2.2MB)" %}}
+{{% resource_link f5e27f76-4bca-e1e9-d31e-f31d970b1251 "Kinetics of folding, predicting protein structure (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +189,7 @@ Courtesy of Rebecca L. Carrier. Used with permission.
 23
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f88b05cf-7158-a6c9-e9ca-381ec97d4887 "Structure from sequence (PDF - 1.3MB)" %}}
+{{% resource_link f88b05cf-7158-a6c9-e9ca-381ec97d4887 "Structure from sequence (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +198,7 @@ Courtesy of Rebecca L. Carrier. Used with permission.
 24
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ef05dc22-3da7-760e-6db2-5255f35b01b7 "Kinases, graph theory, experimental and computational techniques (PDF - 1.3MB)" %}}
+{{% resource_link ef05dc22-3da7-760e-6db2-5255f35b01b7 "Kinases, graph theory, experimental and computational techniques (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,6 +210,6 @@ Courtesy of Rebecca L. Carrier. Used with permission.
 
 Scheeff, Eric D., and J. Lynn Fink. "Fundamentals of Protein Structure." In _Structural Bioinformatics_. Edited by Philip E. Bourne, and Helge Weissig. Wiley-Liss, 2003, pp. 15–39. ISBN: 9780471201991. \[Preview with [Google Books](http://books.google.com/books?id=4H_ai7ivRIcC&pg=PA15#v=onepage)\]
 
-Grinstead, Charles M., and J. Laurie Snell, eds. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Introduction to Probability_ (PDF - 3.06MB)](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf). American Mathematical Society, 1997. ISBN: 9780821807491. \[Preview with [Google Books](http://books.google.com/books?id=14oq4uWGCkwC&pg=PAfrontcover)\]
+Grinstead, Charles M., and J. Laurie Snell, eds. [_Introduction to Probability_ (PDF - 3.06MB)](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf). American Mathematical Society, 1997. ISBN: 9780821807491. \[Preview with [Google Books](http://books.google.com/books?id=14oq4uWGCkwC&pg=PAfrontcover)\]
 
 Woolf, Peter, Burge Christopher, et al. {{% resource_link e4de50a9-77c2-2681-4a80-4c0944b2c70a "_Statistics and Probability Primer for Computational Biologists (PDF)_" %}}. 2004. (Courtesy of the authors. Used with permission.)

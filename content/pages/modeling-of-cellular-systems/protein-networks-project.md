@@ -31,7 +31,7 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 623e3d08-f08e-def6-2958-906f05507961 "Protein Networks Project Guidelines and Directions (PDF)" %}}
+{{% resource_link 623e3d08-f08e-def6-2958-906f05507961 "Protein Networks Project Guidelines and Directions (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
