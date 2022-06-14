@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: This is a special file of protein networks project.
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/25799b45b4abebfe28cd862231301cfd_sensorODE_solver.m
 file_type: text/x-objcsrc
 learning_resource_types: []

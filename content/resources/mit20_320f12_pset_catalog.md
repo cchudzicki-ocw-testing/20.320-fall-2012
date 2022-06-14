@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: This file contains information regarding problem set catalog.
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/b6584992ca25eabdd6724181bea31aa9_MIT20_320F12_PSET_Catalog.pdf
 file_type: application/pdf
 learning_resource_types: []

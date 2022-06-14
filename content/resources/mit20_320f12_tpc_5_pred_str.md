@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: 'This file contains information regarding protein structure prediction. '
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/2a67acd58ca91d50938812ce37e80954_MIT20_320F12_Tpc_5_Pred_Str.pdf
 file_type: application/pdf
 learning_resource_types: []

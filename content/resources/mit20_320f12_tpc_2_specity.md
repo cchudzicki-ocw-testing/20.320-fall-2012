@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: This file contains information regarding interaction specificity.
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/82d39252b2779b18ddc414e6af08a040_MIT20_320F12_Tpc_2_Specity.pdf
 file_type: application/pdf
 learning_resource_types: []
