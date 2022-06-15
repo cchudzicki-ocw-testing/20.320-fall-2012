@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section contains lecture notes, reading material, suggested study
+  problems, and an associated protein networks project for the half of the course
+  taught by Prof. Forest White. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
