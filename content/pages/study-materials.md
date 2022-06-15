@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a problem sets and solutions from past semesters
+  of the course and a catalog of practice problems.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains information about the protein design project that
+  accompanies the Modeling and Manipulating Biomolecular Interactions section of the
+  course, including project handouts and supporting files.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Modeling and Manipulating Biomolecular Interactions
