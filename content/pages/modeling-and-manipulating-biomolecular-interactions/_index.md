@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains an overview, lecture notes, and reading material
+  for the half of the course taught by Prof. Ernest Fraenkel. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
