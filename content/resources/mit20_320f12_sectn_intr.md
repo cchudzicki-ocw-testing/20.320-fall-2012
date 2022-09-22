@@ -5,6 +5,7 @@ description: 'This file contains information regarding introduction: modeling an
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/45d28b8c92ea5a03e0a8f036f0cf28b1_MIT20_320F12_Sectn_Intr.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Modeling and Manipulating Biomolecular Interactions
 parent_type: CourseSection

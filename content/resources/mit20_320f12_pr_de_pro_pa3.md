@@ -5,6 +5,7 @@ description: This file contains information regarding protein design project - p
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/c0f00e1da22e6a54bb83cd13161e758c_MIT20_320F12_Pr_De_Pro_Pa3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Protein Design Project
 parent_type: CourseSection

@@ -4,6 +4,7 @@ description: This resource contains information regarding lecture 15.
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/61ebe26ecd53067b9576659356e3dbba_MIT20_320F12_Lecture15.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Modeling and Manipulating Biomolecular Interactions
 parent_type: CourseSection
